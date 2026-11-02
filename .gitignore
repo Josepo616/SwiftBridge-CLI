@@ -1,0 +1,69 @@
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+DerivedData/
+build/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+Packages/
+
+# CocoaPods (if ever referenced)
+Pods/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Generated Output (default output directory)
+# Uncomment if you don't want generated code committed:
+# generated/
+
+# Documentation
+docs/
+
+# AI Agent Customizations (local, not shared)
+.agents/
+
+# Environment & Secrets
+.env
+.env.local
+*.pem
+*.p12
+
+# Test artifacts
+*.lcov
+*.profraw
+*.profdata
+coverage/
+test-results/
+
+# Distribution
+*.tar.gz
+*.zip
+dist/
