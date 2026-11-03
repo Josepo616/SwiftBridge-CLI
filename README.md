@@ -97,4 +97,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-**Built with ❤️ for the Swift community by [José Álvarez](https://github.com/user)**
+**Built for the Swift community by [José Álvarez](https://github.com/Josepo616)**
